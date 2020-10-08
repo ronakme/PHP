@@ -15,3 +15,6 @@ We're on [Gitter](https://gitter.im/TheAlgorithms)!  Please join us.
 ## List of Algorithms
 
 See our [directory](DIRECTORY.md).
+
+##Use Mysqli()
+USE MYSQLI WHICH IS BEST FOR FUTURE PHP UPDATES
